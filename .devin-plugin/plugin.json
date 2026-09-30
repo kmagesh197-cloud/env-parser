@@ -1,0 +1,3 @@
+{ "name": "env-format-tooling", "version": "1.0.0",
+  "description": "Project env formatting conventions",
+  "skills": ["../.devin/skills/env-format-check/SKILL.md"] }
