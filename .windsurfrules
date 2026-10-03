@@ -1,1 +1,0 @@
-When reviewing a PR, always check out the branch locally in this workspace and run the test suite. Do not approve based on remote diff review alone.
